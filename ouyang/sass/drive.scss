@@ -1,0 +1,117 @@
+.c_foot {
+  display: none;
+}
+.w1230 {
+  width: 1230px;
+  margin: 0 auto;
+}
+.o-main {
+  height: 900px;
+  background: rgb(242, 241, 240);
+}
+.o-drive {
+  height: 350px;
+  padding: 60px 0 0 0;
+  color: #333;
+  h2 {
+    font-size: 42px;
+    line-height: 1.1;
+  }
+  .half,
+  .half-two {
+    .item {
+      display: inline-block;
+      position: relative;
+      i {
+        position: absolute;
+        top: 15px;
+        left: 45px;
+        transition: all 0.5s ease ;
+      }
+
+      span {
+        font-size: 18px;
+        line-height: 1.5;
+        color: #c10202;
+        width: 20px;
+        padding: 6px;
+        display: inline-block;
+        text-align: center;
+      }
+
+      input {
+        width: 540px;
+        height: 20px;
+        color: #333;
+        font-size: 16px;
+        display: inline-block;
+        font-size: 16px;
+        letter-spacing: 0;
+        line-height: 1.5;
+        border: none;
+        box-sizing: border-box;
+        border-radius: 2px;
+        padding: 10px 20px;
+        background-color: #fff;
+        box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.05);
+        height: 42px;
+      }
+    }
+  }
+}
+    .ms {
+      padding: 30px 0;
+      font-size: 16px;
+    }
+    .mt30 {
+      margin-top: 30px;
+    }
+    .full {
+      padding-left: 60px;
+      padding-bottom: 60px;
+      .respon{
+        padding-top: 30px;
+        font-size: 20px;
+        color: rgb(158, 76, 76);
+        margin-left: 30px;
+
+      }
+      .nes {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 30px;
+        margin-left: 30px;
+      }
+    }
+    .subm {
+      background-color: #0c2340;
+      border: 1px solid #0c2340;
+      line-height: 2;
+      font-size: 14px;
+      border-radius: 2px;
+      color: #fff;
+      padding: 0 30px;
+      margin-bottom: 30px;
+      margin-left: 30px;
+      cursor: pointer;
+    }
+    .fireds {
+      margin-left: 30px;
+    }
+    select {
+      width: 540px;
+      height: 20px;
+      color: #333;
+      font-size: 16px;
+      display: inline-block;
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: 1.5;
+      border: none;
+      box-sizing: border-box;
+      border-radius: 2px;
+      padding: 10px 20px;
+      background-color: #fff;
+      box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.05);
+      height: 42px;
+    }

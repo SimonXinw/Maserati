@@ -1,0 +1,124 @@
+#content {
+  width: 100%;
+  overflow: hidden;
+  color: #333; }
+  #content h1 {
+    font-size: 34px;
+    line-height: 34px;
+    margin-bottom: 75px; }
+  #content .warCar {
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px; }
+    #content .warCar .boxImgs {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between; }
+      #content .warCar .boxImgs .warCarimg {
+        width: 48%;
+        display: inline-block; }
+        #content .warCar .boxImgs .warCarimg img {
+          width: 100%;
+          margin-bottom: 20px; }
+        #content .warCar .boxImgs .warCarimg h4 {
+          font-size: 20px;
+          line-height: 28px; }
+        #content .warCar .boxImgs .warCarimg p {
+          font-size: 16px;
+          line-height: 24px; }
+  #content .gran {
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px; }
+    #content .gran .granCar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between; }
+      #content .gran .granCar .granimg {
+        width: 32%;
+        margin: 30px auto; }
+        #content .gran .granCar .granimg img {
+          width: 100%;
+          margin-bottom: 20px; }
+        #content .gran .granCar .granimg h4 {
+          font-size: 20px;
+          line-height: 28px; }
+        #content .gran .granCar .granimg p {
+          font-size: 16px;
+          line-height: 24px; }
+  #content .quattroporte {
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px; }
+    #content .quattroporte .quattroporteCar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between; }
+      #content .quattroporte .quattroporteCar .quattroporteimg {
+        width: 32%;
+        margin: 30px auto; }
+        #content .quattroporte .quattroporteCar .quattroporteimg img {
+          width: 100%;
+          margin-bottom: 20px; }
+        #content .quattroporte .quattroporteCar .quattroporteimg h4 {
+          font-size: 20px;
+          line-height: 28px; }
+        #content .quattroporte .quattroporteCar .quattroporteimg p {
+          font-size: 16px;
+          line-height: 24px; }
+  #content .biturbo {
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px; }
+    #content .biturbo .biturboCar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between; }
+      #content .biturbo .biturboCar .biturboimg {
+        width: 32%;
+        margin: 30px auto; }
+        #content .biturbo .biturboCar .biturboimg img {
+          width: 100%;
+          margin-bottom: 20px; }
+        #content .biturbo .biturboCar .biturboimg h4 {
+          font-size: 20px;
+          line-height: 28px; }
+        #content .biturbo .biturboCar .biturboimg p {
+          font-size: 16px;
+          line-height: 24px; }
+  #content .special {
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px; }
+    #content .special .specialCar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between; }
+      #content .special .specialCar .specialimg {
+        width: 32%;
+        margin: 30px auto; }
+        #content .special .specialCar .specialimg img {
+          width: 100%;
+          margin-bottom: 20px; }
+        #content .special .specialCar .specialimg h4 {
+          font-size: 20px;
+          line-height: 28px; }
+        #content .special .specialCar .specialimg p {
+          font-size: 16px;
+          line-height: 24px; }
+
+.circle {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 40px;
+  border-radius: 50%;
+  border: 1px solid black;
+  position: fixed;
+  right: 15px;
+  bottom: 15px; }

@@ -1,0 +1,195 @@
+#content {
+  width: 100%;
+  overflow: hidden; }
+  #content .content-ul {
+    width: 100%;
+    position: relative; }
+    #content .content-ul .li1 {
+      height: 110px;
+      background: #f2f1f0;
+      overflow: hidden; }
+      #content .content-ul .li1 h2 {
+        width: 1450px;
+        margin: 30px auto 0;
+        font-size: 34px;
+        line-height: 34px; }
+    #content .content-ul .li2 {
+      width: 100%;
+      position: relative; }
+      #content .content-ul .li2 img {
+        width: 100%; }
+    #content .content-ul .li3 {
+      width: 100%;
+      height: 155px;
+      overflow: hidden; }
+      #content .content-ul .li3 div {
+        width: 1400px;
+        font-size: 16px;
+        margin: 30px auto 0;
+        height: 48px;
+        line-height: 28px;
+        color: #333; }
+    #content .content-ul .li4 {
+      width: 100%; }
+      #content .content-ul .li4 img {
+        width: 100%; }
+    #content .content-ul .li5 {
+      height: 155px;
+      overflow: hidden; }
+    #content .content-ul .li6 {
+      width: 100%; }
+      #content .content-ul .li6 img {
+        width: 100%; }
+    #content .content-ul .li7 {
+      height: 195px;
+      overflow: hidden; }
+    #content .content-ul .li8 {
+      width: 100%; }
+      #content .content-ul .li8 img {
+        width: 100%; }
+    #content .content-ul .li9 {
+      height: 180px;
+      overflow: hidden; }
+    #content .content-ul .li10 {
+      width: 100%; }
+      #content .content-ul .li10 img {
+        width: 100%; }
+    #content .content-ul .li11 {
+      height: 155px;
+      overflow: hidden; }
+    #content .content-ul .li12 {
+      width: 100%; }
+      #content .content-ul .li12 img {
+        width: 100%; }
+    #content .content-ul .li13 {
+      height: 195px;
+      overflow: hidden; }
+    #content .content-ul .li14 {
+      width: 100%; }
+      #content .content-ul .li14 img {
+        width: 100%; }
+    #content .content-ul .li15 {
+      height: 155px;
+      overflow: hidden; }
+    #content .content-ul .li16 {
+      width: 100%; }
+      #content .content-ul .li16 img {
+        width: 100%; }
+    #content .content-ul .li17 {
+      height: 130px;
+      overflow: hidden; }
+    #content .content-ul .li18 {
+      width: 100%; }
+      #content .content-ul .li18 img {
+        width: 100%; }
+    #content .content-ul .li19 {
+      height: 171px;
+      overflow: hidden; }
+    #content .content-ul .li20 {
+      width: 100%; }
+      #content .content-ul .li20 img {
+        width: 100%; }
+    #content .content-ul .li21 {
+      height: 220px;
+      overflow: hidden; }
+    #content .content-ul .li22 {
+      width: 100%; }
+      #content .content-ul .li22 img {
+        width: 100%; }
+    #content .content-ul .li23 {
+      height: 195px;
+      overflow: hidden; }
+    #content .content-ul .li24 {
+      width: 100%; }
+      #content .content-ul .li24 img {
+        width: 100%; }
+    #content .content-ul .li25 {
+      height: 211px;
+      overflow: hidden; }
+
+#content li {
+  position: relative; }
+  #content li p {
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    color: #fff;
+    font-size: 16px;
+    z-index: 999; }
+    #content li p b {
+      display: block;
+      font-size: 28px;
+      font-weight: bold; }
+  #content li span {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(35deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) 50%); }
+  #content li div {
+    width: 1400px;
+    font-size: 16px;
+    margin: 30px auto 0;
+    height: 48px;
+    line-height: 24px;
+    color: #333; }
+
+#bot-content {
+  width: 100%;
+  height: 380px; }
+  #bot-content h3 {
+    width: 1400px;
+    font-size: 42px;
+    line-height: 42px;
+    margin: 0 auto 15px; }
+  #bot-content .box {
+    width: 1400px;
+    height: 215px;
+    margin: 0 auto; }
+    #bot-content .box div {
+      float: left;
+      width: 420px;
+      height: 210px;
+      position: relative; }
+      #bot-content .box div a {
+        display: block;
+        overflow: hidden;
+        width: 420px;
+        height: 210px; }
+        #bot-content .box div a img {
+          width: 420px;
+          height: 210px; }
+        #bot-content .box div a b {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          z-index: 8; }
+        #bot-content .box div a b:hover {
+          background: rgba(0, 0, 0, 0.2); }
+      #bot-content .box div i {
+        color: #fff;
+        position: absolute;
+        z-index: 10;
+        font-size: 16px;
+        left: 10px;
+        bottom: 10px; }
+    #bot-content .box div:hover {
+      cursor: pointer; }
+  #bot-content .cen-div {
+    margin: 0 15px; }
+
+.circle {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 40px;
+  border-radius: 50%;
+  border: 1px solid black;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  z-index: 9999; }

@@ -1,0 +1,120 @@
+{
+    "json1":{
+        "btn1": [
+            "勇猛精神，优雅呈现",
+            "1966年，第-代玛莎拉蒂Ghibli轿车面世，并亮相意大利都灵车展。它延续了1947年惊艳问世的玛莎拉蒂A61500跑车开创的车型概念，是一款豪华旅行跑车。 <br>这意味着，它拥有魅力四射的设计风格、澎湃的动力和奢华气质，以及适合长途旅行的舒适性。<br><br>毫无疑问，它继承了玛莎拉蒂的赛车基因，拥有强大的力里。最新一代Ghibli轿车全 新演绎1966年车型的精髓，以及玛莎拉蒂对创新、竞赛和胜利的炙热渴望。这意味着它的豪华性、优雅而张扬的设计风格和前沿技术。当然，还有振奋人心的强劲性能。<br>",
+            "../imgs/oy-pic1.jpg"
+        ],
+        "btn2": [
+            "意式工艺，精湛演绎",
+            "大胆、优美、自信、高雅，玛莎拉蒂Ghibli为灰色沉闷的商务世界带来与众不同的风采。",
+            "../imgs/oy-pic2.jpg",
+            "../imgs/oy-pic5.jpg",
+            "../imgs/oy-pic3.jpg",
+            "../imgs/oy-pic6.jpg",
+            "../imgs/oy-pic4.jpg",
+            "../imgs/oy-pic7.jpg"
+        ],
+        "btn3": [            
+            "../imgs/oy-change1.jpg",
+            "../imgs/oy-change3.jpg",
+            "../imgs/oy-change5.jpg",
+            "../imgs/oy-change2.jpg",
+            "../imgs/oy-change4.jpg",
+            "../imgs/oy-change6.jpg"
+        ],
+        "btn4": [
+            [
+                "../imgs/oy-pic13.jpg",
+                "8速ZF自动变速箱变速箱"
+            ],
+            [
+                "../imgs/oy-pic14.jpg",
+                "04智能四轮驱动系统"
+            ],
+            [
+                "../imgs/oy-pic15.jpg",
+                "智能信息娱乐系统"
+            ],
+            [
+                "../imgs/oy-pic16.jpg",
+                "自适应矩阵式全LED前照灯"
+            ],
+            [
+                "../imgs/oy-pic25.jpg",
+                "悬挂系统和制动器"
+            ],
+            [
+                "../imgs/oy-pic26.jpg",
+                "Hamrman Kaedon音响系统"
+            ],
+            [
+                "../imgs/oy-pic27.jpg",
+                "Bowers&Wilkins环绕声系统"
+            ]
+        ],
+        "btn5": [
+            "安全保障与高级驾驶辅助系统",
+            ""
+        ],
+        "btn6": [
+            "玛莎拉蒂Ghibli—唤醒不羁自我",
+            "../imgs/oy-pic19.jpg"
+        ]
+    },
+    "json2": {
+        "btn1": [
+            "大自然的力量",
+            "玛莎拉蒂有一项传统，那就是用世界上著名的风来为自己的车型命名。这一传统开始于1963年问世的传奇车型Mistral，然后是Ghibli、Bora和Khamsin。最近，同样以风命名的Levante加入到玛莎拉蒂车型家族中 <br>“Levante”是一种跨越地中海的季风，能在一瞬间从温柔的和风转变为猛烈的暴风。<br><br>玛莎拉蒂SUV拥有与之类似的天性，但是它的强大动力始终处于控制之下。遵循真正的玛莎拉蒂豪华旅行传统，车内乘员始终享有玛莎拉蒂的舒适性－无论速度有多快，距离有多远。<br>",
+            "../imgs/ia_4800000005.jpg"
+        ],
+        "btn2": [
+            "独特内饰及体验",
+            "在设计语言方面，Levante表现出鲜明的玛莎拉蒂风格。无论从哪一个角度看，这一点都毋庸置疑。",
+            "../imgs/ia_4800000006.jpg",
+            "../imgs/ia_4800000010.jpg",
+            "../imgs/ia_4800000007.jpg",
+            "../imgs/ia_4800000009.jpg",
+            "../imgs/ia_4800000008.jpg",
+            "../imgs/ia_4800000011.jpg"
+        ],
+        "btn3": [            
+            "../imgs/ia_4800002771.jpg",
+            "../imgs/ia_4800002768.jpg",
+            "../imgs/ia_4800002772.jpg",
+            "../imgs/ia_4800002769.jpg",
+            "../imgs/ia_4800002773.jpg",
+            "../imgs/ia_4800002770.jpg"
+        ],
+        "btn4": [
+            [
+                "../imgs/oy-pic13.jpg",
+                "8速ZF自动变速箱变速箱"
+            ],
+            [
+                "../imgs/oy-pic14.jpg",
+                "04智能四轮驱动系统"
+            ],
+            [
+                "../imgs/oy-pic15.jpg",
+                "智能信息娱乐系统"
+            ],
+            [
+                "../imgs/oy-pic16.jpg",
+                "自适应矩阵式全LED前照灯"
+            ],
+            [
+                "../imgs/oy-pic25.jpg",
+                "悬挂系统和制动器"
+            ],
+            [
+                "../imgs/oy-pic26.jpg",
+                "Hamrman Kaedon音响系统"
+            ],
+            [
+                "../imgs/oy-pic27.jpg",
+                "Bowers&Wilkins环绕声系统"
+            ]
+        ]
+    }
+}

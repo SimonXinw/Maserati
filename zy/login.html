@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <title>登 录</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../css/util.css">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+    <link rel="stylesheet" href="../css/head.css">
+</head>
+
+<body>
+    <header>
+        
+    </header>
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100">
+                <div class="login100-form-title" style="background-image: url(../imgs/bg-01.jpg);">
+                    <span class="login100-form-title-1">登 录</span>
+                </div>
+
+                <form  id="form1" class="login100-form validate-form" action="../data/login.php" method="post">
+                    <div class="wrap-input100 validate-input m-b-26" data-validate="用户名不能为空">
+                        <span class="label-input100">用户名:</span>
+                        <input class="input100 name" type="text" value=""  name="username"  placeholder="请输入用户名">
+                        <span class="focus-input100"></span>
+                    </div>
+
+                    <div class="wrap-input100 validate-input m-b-18" data-validate="密码不能为空">
+                        <span class="label-input100">请输入密码:</span>
+                        <input class="input100 pass" type="password" value=""  name="password" placeholder="请输入密码">
+                        <span class="focus-input100"></span>
+                    </div>
+                   
+
+                    <div class="flex-sb-m w-full p-b-30">
+                        <div class="contact100-form-checkbox">
+                            <input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
+                            <label class="label-checkbox100" for="ckb1">记住我</label>
+                        </div>
+
+                        <div>
+                            <a href="zc.html"  class="txt1">现在注册</a>
+                        </div>
+                    </div>
+
+                    <div class="container-login100-form-btn">
+                        <!-- <button class="login100-form-btn add">登 录</button> -->
+                        <input type="submit" class="login100-form-btn add" value="登 录">
+                    </div>
+                    <div id="Result"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="http://libs.baidu.com/jquery/2.0.3/jquery.min.js"></script>
+    <script src="../js/main.js"></script>
+     <script src="../js/header.js"></script> 
+     <script>
+       // $('.name').val(localStorage.getItem('name'));
+        // $('.pass').val(localStorage.getItem('pass'));
+    
+     $('.add').click(function(){
+        var username=$('.name').val();
+        var userpass=$('.pass').val();
+        localStorage.setItem('name',username);
+        localStorage.setItem('pass',userpass);
+       
+ 
+     })
+     if ($('#ckb1').prop('checked')) {
+        $('.name').val(localStorage.getItem('name'));
+        $('.pass').val(localStorage.getItem('pass'));
+            
+        }
+        
+     </script>
+    
+</body>
+
+</html>

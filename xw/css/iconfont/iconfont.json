@@ -1,0 +1,16 @@
+{
+  "id": "1503806",
+  "name": "玛莎拉蒂",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1010147",
+      "name": "上箭头",
+      "font_class": "shangjiantou",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    }
+  ]
+}

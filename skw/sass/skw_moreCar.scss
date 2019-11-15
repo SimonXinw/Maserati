@@ -1,0 +1,158 @@
+#content{
+    width: 100%;
+    overflow: hidden;
+    color: #333;
+    h1{
+        font-size: 34px;
+        line-height: 34px;
+        margin-bottom: 75px;
+    }
+    .warCar{
+        padding: 30px 60px;
+        box-sizing: border-box;
+        background-color: #f2f1f0;
+        margin-bottom: 20px;
+        .boxImgs{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            .warCarimg{
+                width:48%;
+                display: inline-block;
+                img{
+                    width: 100%;
+                    margin-bottom: 20px;
+                }
+                h4{
+                    font-size: 20px;
+                    line-height: 28px;
+                }
+                p{
+                    font-size: 16px;
+                    line-height: 24px;
+                }
+            }
+        }
+    }
+   .gran{
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px;
+   .granCar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   .granimg{
+       width: 32%;
+       margin: 30px auto;
+    img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    h4{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+   }
+ }
+}
+
+.quattroporte{
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px;
+.quattroporteCar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+.quattroporteimg{
+       width: 32%;
+       margin: 30px auto;
+    img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    h4{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+   }
+ }
+   }
+.biturbo{
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px;
+.biturboCar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+.biturboimg{
+       width: 32%;
+       margin: 30px auto;
+    img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    h4{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+   }
+ }
+   }
+
+   .special{
+    padding: 30px 60px;
+    box-sizing: border-box;
+    background-color: #f2f1f0;
+    margin-bottom: 20px;
+.specialCar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+.specialimg{
+       width: 32%;
+       margin: 30px auto;
+    img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    h4{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+   }
+ }
+   }
+}
+.circle{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+   position: fixed;
+   right: 15px;
+   bottom: 15px;
+}
